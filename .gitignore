@@ -1,1 +1,3 @@
-errol.log
+error.log
+Now to ignore all .log files type :
+*.log
