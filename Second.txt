@@ -1,0 +1,4 @@
+This is version 1 of my Project
+I want this to go into commit 2
+This is some source code change
+this is second text file
