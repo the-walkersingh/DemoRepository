@@ -1,3 +1,4 @@
 # DemoRepository
-This is demo repository
-This is for practicing remote 
+This is demo repository.
+
+This is for practicing remote files.
